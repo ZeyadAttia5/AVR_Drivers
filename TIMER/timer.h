@@ -20,7 +20,7 @@
 #define OCIE2	7		//Output compare interrupt flag
 
 
-//Special Function IO Register â€“SFIOR
+//Special Function IO Register –SFIOR
 #define PSR10	0		//when set -> reset prescalar for timers 1 & 0
 #define PSR2	1		//when set -> reset prescalar for timer 2
 
@@ -46,7 +46,7 @@
 #define WGM00	6		//Waveform Generation Mode
 #define FOC0	7		//Force Output Compare
 
-//Timer/Counter1 Control Register A â€“ TCCR1A
+//Timer/Counter1 Control Register A – TCCR1A
 #define COM1A1	7
 #define COM1A0	6
 #define COM1B1	5
@@ -60,7 +60,7 @@
 #define OCR11	0
 #define OCR12	1
 #define ICR		2
-//Timer/Counter1 Control Register B â€“ TCCR1B
+//Timer/Counter1 Control Register B – TCCR1B
 #define ICNC1	7
 #define ICES1	6
 //#define Res	5

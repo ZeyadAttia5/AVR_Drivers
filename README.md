@@ -1,2 +1,7 @@
-# AVR_Drivers
-AVR_DRIVERS IMT COURSE
+# ATmega32 Microcontroller Drivers
+-DIO 
+-ADC 
+-EXTI 
+-SPI 
+-Timer 
+-UART 
